@@ -9,3 +9,8 @@ Aplikasi Reservasi dan Rekam Medis Klinik Hewan Berbasis Android (Kotlin Jetpack
 - Menentukan entitas data: User, Hewan, Layanan, Reservasi, Rekam Medis
 - Memilih teknologi: Kotlin Jetpack Compose, MVVM, Navigation Compose, backend REST API, Database
 - Membuat repository dan inisialisasi project Android (`PawCare`) sebagai `First Commit` beserta README awal
+
+### Minggu 10: Perancangan Sistem (Penyusunan SRS)
+- Menyusun draft SRS (pendahuluan, deskripsi umum, fitur sistem, kebutuhan nonfungsional)
+- Membuat Use Case Diagram, ERD, dan RAT
+- Membuat Flow Diagram dan Activity Diagram untuk tiap fitur
